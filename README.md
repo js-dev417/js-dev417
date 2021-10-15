@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @js-dev417
-- 👀 I’m interested in computer programming and mechanical engineering
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested in Computer Programming, Artificial Intelligence, and Mechanical Engineering
+- 🌱 I’m currently learning javaScript, Python, c++, and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
